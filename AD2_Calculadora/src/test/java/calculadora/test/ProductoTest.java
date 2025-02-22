@@ -1,4 +1,4 @@
-package Test;
+package calculadora.test;
 
 import calculadora.Producto;
 import org.junit.jupiter.api.Test;
