@@ -2,6 +2,8 @@ package calculadora;
 
 public class Cociente {
 
+    // Autor Aitor Polo Lopez
+
     //Esta clase implementará todos los métodos que están relacionados con la división de la calculadora. Esta
     //clase tendrá los siguientes métodos:
     //1. División de dos números reales, tendrá 2 parámetros de entrada y uno de salida que será la solución.
