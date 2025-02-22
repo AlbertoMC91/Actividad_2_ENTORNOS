@@ -128,4 +128,3 @@ Cociente
         System.out.println("2 elevado a la 3: " + calculadora.potencia(2, 3));
     }
 }
- main
