@@ -1,7 +1,7 @@
 package calculadora;
 
 /**
- * Esta clase implementa todos los métodos que están relacionados con la
+ * Esta clase implementará todos los métodos que están relacionados con la
  * multiplicación de la calculadora.
  * Esta clase tendrá los siguientes métodos:
  * 1. Producto de dos números reales, tendrá 2 parámetros de entrada y uno
