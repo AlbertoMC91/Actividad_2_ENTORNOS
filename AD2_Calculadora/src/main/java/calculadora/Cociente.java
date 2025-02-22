@@ -46,14 +46,6 @@ public class Cociente {
         return Math.sqrt(num);
     }
 
-    public static void main(String[] args) {
-        try {
-            System.out.println("División de dos reales: " + dividirReales(10.5, 2.5));
-            System.out.println("División de dos enteros: " + dividirEnteros(10, 2));
-            System.out.println("Inverso de un número real: " + inverso(5.0));
-            System.out.println("Raíz cuadrada de un número: " + raiz(16));
-        } catch (ArithmeticException e) {
-            System.out.println(e.getMessage());
-        }
+
     }
 }
