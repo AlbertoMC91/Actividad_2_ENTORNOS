@@ -58,4 +58,14 @@ public class Producto {
     public double potencia(double base, double exponente) {
         return Math.pow(base, exponente);
     }
+
+    public static void main(String[] args) {
+        Producto calculadora = new Producto();
+
+        // Ejemplo de uso
+        System.out.println("Producto de 3.0 y 4.0: " + calculadora.multiplicar(3.0, 4.0));
+        System.out.println("Producto de 3 y 4: " + calculadora.multiplicar(3, 4));
+        System.out.println("Producto de 2.0, 3.0 y 4.0: " + calculadora.multiplicar(2.0, 3.0, 4.0));
+        System.out.println("2 elevado a la 3: " + calculadora.potencia(2, 3));
+    }
 }
