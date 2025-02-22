@@ -2,8 +2,6 @@ package calculadora;
 
 public class Producto {
 
-    package calculadora;
-
     /**
      * Esta clase implementará todos los métodos que están relacionados con la
      * multiplicación de la calculadora.
@@ -20,9 +18,7 @@ public class Producto {
      * @author Daniel Porokhnyak
      * @see <a href="https://github.com/DanielPoro">Perfil de GitHub</a>
      */
-    public class Producto {
-
-        /**
+          /**
          * Producto de dos números reales.
          * @param num1 Primer número real.
          * @param num2 Segundo número real.
@@ -64,4 +60,3 @@ public class Producto {
         }
     }
 
-}
