@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
@@ -9,6 +10,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+=======
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AD2_Calculadora" />
+        <option name="gradleJvm" value="21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AD2_Calculadora" />
+>>>>>>> caec146364e81bada1ebcc07b3fee930ce58e02f
           </set>
         </option>
       </GradleProjectSettings>
