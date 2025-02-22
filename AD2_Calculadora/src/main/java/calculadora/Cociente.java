@@ -3,7 +3,7 @@ package calculadora;
 /**
  * Clase Cociente que implementa métodos para realizar operaciones de división
  * y cálculos relacionados en una calculadora.
- * Autor: Aitor Polo Lopez
+ * Autor: Aitor Polo López
  */
 public class Cociente {
 
