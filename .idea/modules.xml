@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Actividad_2_ENTORNOS.iml" filepath="$PROJECT_DIR$/.idea/Actividad_2_ENTORNOS.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AD2_Calculadora.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AD2_Calculadora.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AD2_Calculadora.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AD2_Calculadora.test.iml" />
+>>>>>>> 9f373c8d7cc6061be335468725472eb1395d66c5
     </modules>
   </component>
 </project>
